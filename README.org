@@ -243,5 +243,5 @@ Return the list of ‘gptel-tool’ structs created.
 :CUSTOM_ID: license
 :END:
 
-Copyright (C) 2026 sam kleinman. GPL-3.0 or later. See the source file header
+Copyright (C) 2026 sam kleinman. GPL-3.0 or later. See the [[file:LICENSE][LICENSE]] file and source file header
 for the full license text.
